@@ -1,0 +1,9 @@
+Building aerum
+
+See doc/readme-qt.rst for instructions on building aerum QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of aerum.
+
+See doc/build-*.txt for instructions on building aerumd,
+the intended-for-services, no-graphical-interface, reference
+implementation of aerum.
